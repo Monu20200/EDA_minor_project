@@ -44,7 +44,7 @@ I created the following charts:
 
 ## Files in This Repository
 
-- `minor_project.ipynb` – Notebook containing the analysis and visualizations.
+- `Monu_Cars_EDA_project.ipynb` – Notebook containing the analysis and visualizations.
 - `car_sales_data.csv` – Dataset used for the project, if redistribution is permitted.
 
 ## How to Run

@@ -57,7 +57,7 @@ I created the following charts:
    pip install pandas numpy matplotlib seaborn
    ```
 
-3. Open `minor_project.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `Monu_Cars_EDA_project.ipynb` in Jupyter Notebook or Google Colab.
 
 4. Make sure the CSV dataset is available in the correct folder.
 
